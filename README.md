@@ -88,3 +88,10 @@ The **NE555 timer** generates the PWM switching signal, which controls the **BSS
              ▼
           5V DC
           OUTPUT
+
+
+## 👨‍💻 Author
+
+**Lokesh A.**
+
+B.E. Electronics and Communication Engineering
