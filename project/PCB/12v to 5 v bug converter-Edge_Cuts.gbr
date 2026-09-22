@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-08-21T19:55:50+05:30*%
+%TF.ProjectId,12v to 5 v bug converter,31327620-746f-4203-9520-762062756720,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-08-21 19:55:50*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X87000000Y-65000000D02*
+X116000000Y-65000000D01*
+X116000000Y-94000000D01*
+X87000000Y-94000000D01*
+X87000000Y-65000000D01*
+M02*
