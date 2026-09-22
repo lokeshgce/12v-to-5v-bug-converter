@@ -92,5 +92,6 @@ The **NE555 timer** generates the PWM switching signal, which controls the **BSS
 
 ## 👨‍💻 Author
 
-**Lokesh A**
-** Electronics and Communication Engineering **
+**Lokesh A.**  
+B.E. Electronics and Communication Engineering (ECE)  
+Government College of Engineering, Salem
